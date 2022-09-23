@@ -1,0 +1,30 @@
+{
+  "id": "87ee5694-bb64-4959-bcc2-b00f5e071e3c",
+  "name": "Add Job Dimension",
+  "publisher": "Francisco Bedolla",
+  "version": "1.0.0.0",
+  "brief": "Create Job Dimension related to a new Job",
+  "description": "Creates a New Dimension Value for every Job created in the Job Module to allow a better job cost, expense and income track.",
+  "privacyStatement": "https://fbedolla.com/index.php/privacy-policy/",
+  "EULA": "https://fbedolla.com/index.php/end-user-license-agreement/",
+  "help": "https://fbedolla.com/index.php/2022/09/23/add-job-dimension/",
+  "url": "https://fbedolla.com/index.php/2022/09/23/add-job-dimension/",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 67125,
+      "to": 67129
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "features": ["TranslationFile", "GenerateCaptions"],
+  "runtime": "9.0"
+}
